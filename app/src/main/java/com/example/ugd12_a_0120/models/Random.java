@@ -1,4 +1,4 @@
-package com.example.gd8_x_yyyy.models;
+package com.example.ugd12_a_0120.models;
 
 public class Random {
 

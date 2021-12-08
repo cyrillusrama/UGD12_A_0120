@@ -1,4 +1,4 @@
-package com.example.gd8_x_yyyy.adapters;
+package com.example.ugd12_a_0120.adapters;
 
 import android.content.Context;
 import android.content.DialogInterface;
@@ -15,10 +15,10 @@ import androidx.annotation.NonNull;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.gd8_x_yyyy.AddEditActivity;
-import com.example.gd8_x_yyyy.MainActivity;
-import com.example.gd8_x_yyyy.R;
-import com.example.gd8_x_yyyy.models.Mahasiswa;
+import com.example.ugd12_a_0120.AddEditActivity;
+import com.example.ugd12_a_0120.MainActivity;
+import com.example.ugd12_a_0120.R;
+import com.example.ugd12_a_0120.models.Mahasiswa;
 import com.google.android.material.dialog.MaterialAlertDialogBuilder;
 
 import java.util.ArrayList;
